@@ -1,0 +1,10 @@
+Relative Positioning (position: relative;):
+a)An element with relative positioning is positioned relative to its normal position.
+b)Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to adjust from its normal position.
+c)Other content will not be adjusted to fit into any gap left by the element.
+
+2)Absolute Positioning (position: absolute;):
+
+a)An element with absolute positioning is positioned relative to the nearest positioned ancestor.
+b)If no positioned ancestor is present, then it uses the document body as the parent.
+c)Absolute positioned elements are removed from the normal flow, and can overlap other elements.
